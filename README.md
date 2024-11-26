@@ -10,9 +10,9 @@ A FastAPI-based API to scrape, process, and find similar articles.
 
 ## Installation
 
-python3 -m spacy download en_core_web_trf
-uvicorn app:app --reload
-Swagger UI: http://127.0.0.1:8000/docs
+- python3 -m spacy download en_core_web_trf
+- uvicorn app:app --reload
+- Swagger UI: http://127.0.0.1:8000/docs
 
 ---
 
