@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+goose3
+pandas
+numpy
+scikit-learn
+sqlite3
+spacy
+en-core-web-trf
